@@ -61,19 +61,19 @@ The report contains four pages:
 
 ### Overview
 
-![Vel’Vert Power BI — Overview](images/01_dashboard_overview.png)
+![Overview](01_dashboard_overview.png)
 
 ### Stations
 
-![Vel’Vert Power BI — Stations](images/02_dashboard_stations.png)
+![Stations](02_dashboard_stations.png)
 
 ### Trips
 
-![Vel’Vert Power BI — Trips](images/03_dashboard_trajets.png)
+![Trips](03_dashboard_trajets.png)
 
 ### Operations management
 
-![Vel’Vert Power BI — Operations management](images/04_dashboard_operations.png)
+![Operations management](04_dashboard_operations.png)
 
 
 ## Operational recommendation
