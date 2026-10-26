@@ -46,6 +46,19 @@ The report contains four pages:
 2. **Stations** — bike availability, fill rates, station categories, and stations under pressure
 3. **Trips** — trip-duration indicators and trip activity by day
 4. **Operations management** — potentially atypical trips, neighbourhood filtering, and station prioritisation
+5. ## Dashboard preview
+
+### Overview
+![Vel'Vert dashboard overview](./01_dashboard_overview.png)
+
+### Stations
+![Station availability analysis](./02_dashboard_stations.png)
+
+### Trips
+![Trip analysis](./03_dashboard_trajets.png)
+
+### Operations management
+![Operations management dashboard](./04_dashboard_operations.png)
 
 ## Key findings
 
